@@ -29,11 +29,11 @@ table{
 
   text-align:center;
 }
-td,th,tr {
+td {
   color: white;
-  width: 25%;
   border-top: solid 5px #333; 
   border-bottom: solid 5px #333;
+  width:25%;
 }
 
 
